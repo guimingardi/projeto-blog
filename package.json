@@ -1,0 +1,26 @@
+{
+  "name": "projeto-blog",
+  "version": "1.0.0",
+  "description": "Blog completo com painel adm, login e editor de texto completo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guimingardi/projeto-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guimingardi/projeto-blog/issues"
+  },
+  "homepage": "https://github.com/guimingardi/projeto-blog#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "mysql2": "^2.0.0",
+    "sequelize": "^5.21.2"
+  }
+}
